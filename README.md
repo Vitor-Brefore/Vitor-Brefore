@@ -36,5 +36,5 @@ My focus is the FrontEnd, because I have a lot of creativity and I like design. 
 
 ##
 
-![snake gif](https://github.com/Vitor-Brefore/Vitor-Brefore/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Vitor-Brefore/Vitor-Brefore/blob/output/github-contribution-grid-snake.svg)
 
