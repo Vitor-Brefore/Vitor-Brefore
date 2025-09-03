@@ -5,7 +5,7 @@ I'm Vitor Brefore, a software developer, very interested in learning about front
 
 # Expertise 🚀
 
-My focus is the FrontEnd, because I have a lot of creativity and I like design. I haven't worked in the area yet but I intend to very soon.
+My focus is the Fullstack, because I have a lot of creativity and I like design. I haven't worked in the area yet but I intend to very soon.
 
 
 # Tech Stack 💻
@@ -20,6 +20,7 @@ My focus is the FrontEnd, because I have a lot of creativity and I like design. 
 <img align="center" alt="Vitor-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="center" alt="Vitor-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="center" alt="Vitor-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Vitor-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 ##
