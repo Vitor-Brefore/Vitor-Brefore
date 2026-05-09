@@ -57,14 +57,5 @@ I’m constantly improving my skills through personal projects, studies, and han
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Vitor-Brefore/Vitor-Brefore/output/github-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Vitor-Brefore/Vitor-Brefore/output/github-snake.svg" />
-
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/Vitor-Brefore/Vitor-Brefore/output/github-snake.svg" />
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vitor-Brefore/Vitor-Brefore/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vitor-Brefore/Vitor-Brefore/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Vitor-Brefore/Vitor-Brefore/output/github-snake.svg" /> </picture>
 
