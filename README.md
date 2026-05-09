@@ -33,7 +33,7 @@ I’m constantly improving my skills through personal projects, studies, and han
 
 # GitHub Stats 📊
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vitor-Brefore1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vitor-Brefore&theme=dark)](https://git.io/streak-stats)
 
 ---
 
