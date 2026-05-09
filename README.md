@@ -33,7 +33,7 @@ I’m constantly improving my skills through personal projects, studies, and han
 
 # GitHub Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-brefore)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Brefore)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
