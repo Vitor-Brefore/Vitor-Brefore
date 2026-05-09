@@ -31,12 +31,17 @@ I’m constantly improving my skills through personal projects, studies, and han
 
 ---
 
-## GitHub Stats 📊
+# GitHub Stats 📊
 
-<p align="left">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Brefore&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Vitor-Brefore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Brefore&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 
 ---
 
