@@ -33,7 +33,7 @@ I’m constantly improving my skills through personal projects, studies, and han
 
 ## GitHub Stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Brefore&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Brefore&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
